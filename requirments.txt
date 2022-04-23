@@ -1,0 +1,4 @@
+pynput == 1.7.6
+pygame == 2.0.1
+pystray == 0.19.3
+pillow == 8.3.1
