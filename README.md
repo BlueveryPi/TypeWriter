@@ -1,2 +1,6 @@
 # TypeWriter
-바이올렛 에버가든 보다가 타자기 소리가 느낌있어서 만든 코드. 키보드 사운드에 타자기 소리를 덧입힘.
+Code made with inspiration from anime Violet Evergarden.    
+Typewriter seemed cool.    
+This code makes your keyboard make typewriter noises.    
+    
+    Currently tring to add more sounds!
